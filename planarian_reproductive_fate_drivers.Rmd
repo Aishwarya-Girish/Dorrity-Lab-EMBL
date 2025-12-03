@@ -363,7 +363,7 @@ The working directory was set to organize data and results appropriately.
 
 ```{r working directory}
 
-setwd("/Users/gaurav/Downloads/report") #enter your working directory
+setwd("/home/aishwarya/R/dorrity_lab_embl") #enter your working directory
 
 ```
 
